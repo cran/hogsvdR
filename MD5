@@ -1,0 +1,15 @@
+96df2b77eed81e2eb31b21c93d33fd2f *DESCRIPTION
+4f990411dddd06bc79e4fce20829d5be *NAMESPACE
+bcb101868376a5cfeb54b9bb89396b6e *R/RcppExports.R
+ecbbc5d2b2dfd794aeae32e5c45ec07d *R/hogsvdR.R
+e58a21f7395d7872fd15262c08dec252 *README.md
+e84e26e537c6a2e8eb8fcfadf938b35a *man/calcNormS.R.Rd
+1965089c60ff69e791a1e215b616ffff *man/calcNormS.Rd
+4ac4306c7f1f1286d4bec52f0d26297e *man/hogsvd.Rd
+e38d0442f0c3a2a6e41a27eebf04bd03 *man/hogsvd.rArmadillo.Rd
+68095ef4db41778cad5415faeae5e404 *man/hogsvd.rsimple.Rd
+f87f8b8a5503712513b338b6baae4594 *src/Makevars
+659bae00637521a9a4e3b72248cf58bc *src/RcppExports.cpp
+a85c53792cf3cb7932d500a4e0c377c9 *src/hogsvd.cpp
+c1c3d93343f8effcb0327c3ed8778a51 *tests/testthat.R
+79383d5c3cbcbc25fbb9f55bf3cfaa63 *tests/testthat/test.hogsvd.R
